@@ -1,0 +1,16 @@
+﻿  SDL_win32_main.c
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\main\win32\sdl_win32_main.c(177): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\main\win32\sdl_win32_main.c(187): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\main\win32\sdl_win32_main.c(224): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note: see declaration of 'freopen'
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\main\win32\sdl_win32_main.c(231): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\main\win32\sdl_win32_main.c(247): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note: see declaration of 'freopen'
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\main\win32\sdl_win32_main.c(253): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\main\win32\sdl_win32_main.c(262): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(395): note: see declaration of 'setbuf'
+  SDLmain.vcxproj -> C:\Users\33601\Desktop\IMAC S3\Synthèse d'image\PckWin\SDL-1.2.15\VisualC\SDLmain\.\Debug\SDLmain.lib

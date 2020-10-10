@@ -1,0 +1,61 @@
+﻿  Cone.cpp
+  FreeflyCamera.cpp
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\Cone.cpp(4,10): error C1083:  Impossible d'ouvrir le fichier include : 'glimac/common.hpp' : No such file or directory
+  Geometry.cpp
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\FreeflyCamera.cpp(1,10): error C1083:  Impossible d'ouvrir le fichier include : 'glimac/FreeflyCamera.hpp' : No such file or directory
+  Image.cpp
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\Geometry.cpp(1,10): error C1083:  Impossible d'ouvrir le fichier include : 'glimac/Geometry.hpp' : No such file or directory
+  Program.cpp
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\Image.cpp(1,10): error C1083:  Impossible d'ouvrir le fichier include : 'glimac/Image.hpp' : No such file or directory
+  SDLWindowManager.cpp
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\Program.cpp(1,10): error C1083:  Impossible d'ouvrir le fichier include : 'glimac/Program.hpp' : No such file or directory
+  Shader.cpp
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\SDLWindowManager.cpp(1,10): error C1083:  Impossible d'ouvrir le fichier include : 'glimac/SDLWindowManager.hpp' : No such file or directory
+  Sphere.cpp
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\Shader.cpp(1,10): error C1083:  Impossible d'ouvrir le fichier include : 'glimac/Shader.hpp' : No such file or directory
+  tiny_obj_loader.cpp
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\Sphere.cpp(4,10): error C1083:  Impossible d'ouvrir le fichier include : 'glimac/common.hpp' : No such file or directory
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(84,31): warning C4267:  'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(85,34): warning C4267:  'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(199,46): warning C4267:  'initialisation' : conversion de 'size_t' en 'unsigned int', perte possible de données
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(336,23): warning C4473:  'sscanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(336,23): message :  les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(336,23): message :  l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(336,23): message :  cet argument est utilisé comme taille de mémoire tampon
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(463,15): warning C4244:  'initialisation' : conversion de '__int64' en 'int', perte possible de données
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(609,88): warning C4267:  'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(611,39): warning C4267:  'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(625,23): warning C4473:  'sscanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(625,23): message :  les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(625,23): message :  l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(625,23): message :  cet argument est utilisé comme taille de mémoire tampon
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(645,23): warning C4473:  'sscanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(645,23): message :  les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(645,23): message :  l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(645,23): message :  cet argument est utilisé comme taille de mémoire tampon
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(705,23): warning C4473:  'sscanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(705,23): message :  les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(705,23): message :  l'argument variadique manquant 2 est demandé par la chaîne de format '%s'
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(705,23): message :  cet argument est utilisé comme taille de mémoire tampon
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4267:  'initialisation' : conversion de 'size_t' en '_Ty2', perte possible de données
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4267:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4267:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4267:             _Ty2=int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\utility(123,1): warning C4267:         ]
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(326): message :  voir la référence à l'instanciation de la fonction modèle 'std::pair<std::string,int>::pair<std::string&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept(false)' en cours de compilation
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(326): message :         with
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(326): message :         [
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(326): message :             _Other1=std::string &,
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(326): message :             _Other2=unsigned __int64
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(326): message :         ]
+  TrackballCamera.cpp
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(326): message :  voir la référence à l'instanciation de la fonction modèle 'std::pair<std::string,int>::pair<std::string&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept(false)' en cours de compilation
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(326): message :         with
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(326): message :         [
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(326): message :             _Other1=std::string &,
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(326): message :             _Other2=unsigned __int64
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\tiny_obj_loader.cpp(326): message :         ]
+  exo2_ponctLight.cpp
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\GLImac-Template\glimac\src\TrackballCamera.cpp(1,10): error C1083:  Impossible d'ouvrir le fichier include : 'glimac/TrackballCamera.hpp' : No such file or directory
+  Génération de code en cours...
+C:\Users\dunca\Desktop\Portfolio\Elements de présentation\A Faire\OpenGL Galaxie\ressources\TP2\TP2\src\TD5\exo2_ponctLight.cpp(1,10): error C1083:  Impossible d'ouvrir le fichier include : 'glimac/SDLWindowManager.hpp' : No such file or directory

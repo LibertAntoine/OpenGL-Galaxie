@@ -1,0 +1,93 @@
+﻿  SDL_dx5yuv.c
+  SDL_dx5video.c
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\video\windx5\sdl_dx5video.c(1205): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\video\windx5\sdl_dx5video.c(1610): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+  SDL_dx5events.c
+  SDL_dibvideo.c
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\video\windib\sdl_dibvideo.c(531): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+  SDL_dibevents.c
+  SDL_wingl.c
+  SDL_syswm.c
+  SDL_sysmouse.c
+  SDL_sysevents.c
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\video\wincommon\sdl_sysevents.c(826): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(378): note: see declaration of 'GetVersionExA'
+  SDL_yuv_sw.c
+  SDL_yuv.c
+  SDL_video.c
+  SDL_surface.c
+  SDL_stretch.c
+  SDL_RLEaccel.c
+  SDL_pixels.c
+  SDL_gamma.c
+  SDL_cursor.c
+  SDL_bmp.c
+  SDL_blit_N.c
+  Generating Code...
+  Compiling...
+  SDL_blit_A.c
+  SDL_blit_1.c
+  SDL_blit_0.c
+  SDL_blit.c
+  SDL_nullvideo.c
+  SDL_nullmouse.c
+  SDL_nullevents.c
+  SDL_systimer.c
+  SDL_timer.c
+  SDL_systhread.c
+  SDL_syssem.c
+  SDL_sysmutex.c
+  SDL_thread.c
+  SDL_syscond.c
+  SDL_string.c
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\stdlib\sdl_string.c(1018): warning C4996: '_ltoa': This function or variable may be unsafe. Consider using _ltoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(664): note: see declaration of '_ltoa'
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\stdlib\sdl_string.c(1032): warning C4996: '_ultoa': This function or variable may be unsafe. Consider using _ultoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(689): note: see declaration of '_ultoa'
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\stdlib\sdl_string.c(1219): warning C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(234): note: see declaration of '_strlwr'
+  SDL_stdlib.c
+  SDL_qsort.c
+  SDL_malloc.c
+  SDL_iconv.c
+  SDL_getenv.c
+  Generating Code...
+  Compiling...
+  SDL_fatal.c
+  SDL_error.c
+  SDL.c
+  SDL_sysloadso.c
+  SDL_mmjoystick.c
+  SDL_joystick.c
+  SDL_rwops.c
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\file\sdl_rwops.c(115): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(378): note: see declaration of 'GetVersionExA'
+  SDL_resize.c
+  SDL_quit.c
+  SDL_mouse.c
+  SDL_keyboard.c
+  SDL_expose.c
+  SDL_events.c
+  SDL_active.c
+  SDL_cpuinfo.c
+  SDL_syscdrom.c
+  SDL_cdrom.c
+  SDL_dx5audio.c
+c:\users\33601\desktop\imac s3\synthèse d'image\pckwin\sdl-1.2.15\src\audio\windx5\sdl_dx5audio.c(69): warning C4996: 'GetVersionExA': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(378): note: see declaration of 'GetVersionExA'
+  SDL_dibaudio.c
+  SDL_wave.c
+  Generating Code...
+  Compiling...
+  SDL_mixer_MMX_VC.c
+  SDL_mixer.c
+  SDL_audiocvt.c
+  SDL_audio.c
+  SDL_dummyaudio.c
+  SDL_diskaudio.c
+  Generating Code...
+     Creating library .\Debug\SDL.lib and object .\Debug\SDL.exp
+  SDL.vcxproj -> C:\Users\33601\Desktop\IMAC S3\Synthèse d'image\PckWin\SDL-1.2.15\VisualC\SDL\.\Debug\SDL.dll
